@@ -1,0 +1,12 @@
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/SystemObject.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/device/ArduinoInterface.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/device/ArduinoSerialInterface.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/device/ArduinoSimulatorInterface.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/SimpleGatewayExample.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/devicemgmt/GatewayActionHandlerSample.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/SampleRasPiGateway.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/devicemgmt/ManagedRasPiGateway.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/GatewayCommandCallback.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/application/SampleApplication.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/device/DeviceInterface.java
+/home/pi/gateway-samples/java/gateway-samples/src/main/java/com/ibm/iotf/sample/client/gateway/devicemgmt/GatewayFirmwareHandlerSample.java
